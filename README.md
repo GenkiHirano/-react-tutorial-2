@@ -1,3 +1,3 @@
 ## 概要
 
-- react-tutorial で復習する
+- react-tutorial で遊ぶ
